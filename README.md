@@ -1,0 +1,1 @@
+# Shopware_plugin_cart_image
