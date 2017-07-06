@@ -3,6 +3,6 @@
         {$image = $sBasketItem.additional_details.image}  
          {if $image}
        <!-- this can be snippet  -->
-            <a href="{$image.source}" target="_blank">Product Picture link</a>
+            <a href="{$image.source}" target="_blank">{s name='yj_product_picture_link'}Product Picture link{/s}</a>
          {/if}
   {/block}
